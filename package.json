@@ -1,0 +1,7 @@
+{
+  "name": "order-site",
+  "version": "1.0.0",
+  "scripts": {
+    "deploy": "npx wrangler pages deploy ."
+  }
+}
